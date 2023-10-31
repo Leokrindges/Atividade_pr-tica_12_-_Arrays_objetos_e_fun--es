@@ -1,0 +1,1 @@
+<p>Atividade para praticar utilização de objetos, arrays, funções e os metodos dos arrays, filter(), findIndex(), map(), etc</p>
